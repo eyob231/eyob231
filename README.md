@@ -16,8 +16,8 @@
 ---
 
 ### **🔥 GitHub Stats & Streaks**
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&hide_border=true)](https://git.io/streak-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=eyob231&theme=radical&hide_border=true)](https://git.io/streak-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eyob231&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)  
 
 ---
  
