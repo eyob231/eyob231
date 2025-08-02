@@ -1,11 +1,4 @@
-- 👋 Hi, I’m @eyob231
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning web security 
-- 💞️ I’m looking to collaborate on anyone
-- 📫 How to reach me ...
-- ⚡ Fun fact: ...
-
-<!---
-eyob231/eyob231 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🔥 My GitHub Streaks & Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true)
