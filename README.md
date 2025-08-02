@@ -5,7 +5,7 @@
 I’m a **passionate Focused frontend engineer** with a designer’s eye, specializing in:  
 - Building immersive, animated UIs with **Rive, Lottie, and Framer Motion**  
 - Crafting pixel-perfect responsive layouts using **Tailwind CSS, Figma, and Spline**  
-- Developing full-stack capable apps with **React, Next.js, and PHP**  
+- Developing full-stack capable apps with **React, Next.js, and vue**  
 - Bridging mobile & web with **Kotlin/Java and cross-platform tools**  
 
 ### 🎯 My Coding Philosophy  
