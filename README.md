@@ -1,5 +1,5 @@
 # Hey there! 👋 I'm Eyob Solomon
-
+ 
 **Frontend Focused Developer | UI/UX Enthusiast | JavaScript Wizard** 
 ### 👨‍💻 Who Am I?  
 I’m a **passionate Focused frontend engineer** with a designer’s eye, specializing in:  
