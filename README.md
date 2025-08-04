@@ -1,8 +1,7 @@
 # Hey there! 👋 I'm Eyob Solomon
  
 **Frontend Focused Developer | UI/UX Enthusiast | JavaScript Wizard** 
-### 👨‍💻 Who Am I?  
-I’m a **passionate Focused frontend engineer** with a designer’s eye, specializing in:  
+I’m a **passionate frontend Focused engineer** with a designer’s eye, specializing in:  
 - Building immersive, animated UIs with **Rive, Lottie, and Framer Motion**  
 - Crafting pixel-perfect responsive layouts using **Tailwind CSS, Figma, and Spline**  
 - Developing full-stack capable apps with **React, Next.js, and vue**  
