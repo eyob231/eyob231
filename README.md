@@ -41,9 +41,10 @@ I’m a **passionate frontend Focused engineer** with a designer’s eye, specia
 
 ---
 
-### **🔥 GitHub Stats & Streaks**
-[![GitHub Streak](https://streak-stats.demolab.com?user=eyob231&theme=radical&hide_border=true)](https://git.io/streak-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eyob231&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)  
+### 🔥 My GitHub Streaks & Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=eyob231&theme=dark&hide_border=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=eyob231&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eyob231&layout=compact&theme=dark&hide_border=true)
 
----
+----
  
