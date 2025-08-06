@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Eyob Solomon
+# Hey there! 👋 I'm Eyob Solomon 
  
 **Frontend Focused Developer | UI/UX Enthusiast | JavaScript Wizard** 
 specializing in:  
