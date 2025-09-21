@@ -39,7 +39,6 @@ specializing in:
 🌱 **Learning:** [gsap, Three.js, etc.]  
 📫 **How to reach me:** eyobs573@gmail.com | (https://www.linkedin.com/in/eyob-solomon-1a8026360)  
 
----
 
 ### 🔥 My GitHub Streaks & Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=eyob231&theme=dark&hide_border=true)
