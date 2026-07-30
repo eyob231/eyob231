@@ -34,7 +34,15 @@ specializing in:
 ![Spline](https://img.shields.io/badge/-Spline-6CCEF5?logo=spline&logoColor=white)  
 ![Cursor AI](https://img.shields.io/badge/-Cursor_AI-000?logo=cursor&logoColor=white) 
 ![Locofy](https://img.shields.io/badge/-Locofy-FF6C37?logo=locofy&logoColor=white) 
-![GitHub Copilot](https://img.shields.io/badge/-GitHub_Copilot-000?logo=githubcopilot&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/-GitHub_Copilot-000?logo=githubcopilot&logoColor=white
+*Bages
+<iframe
+  src="https://skillsoft.digitalbadges-eu.skillsoft.com/embed/5995efb9-4cb6-4128-87c8-4b1d32b783d2"
+  width="800"
+  height="600"
+  frameborder="0"
+  allowfullscreen>
+</iframe>
  
 🌱 **Learning:** [gsap, Three.js, etc.]  
 📫 **How to reach me:** eyobs573@gmail.com | (https://www.linkedin.com/in/eyob-solomon-1a8026360)  
