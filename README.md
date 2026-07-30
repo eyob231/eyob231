@@ -36,7 +36,7 @@ specializing in:
 ![Locofy](https://img.shields.io/badge/-Locofy-FF6C37?logo=locofy&logoColor=white) 
 ![GitHub Copilot](https://img.shields.io/badge/-GitHub_Copilot-000?logo=githubcopilot&logoColor=white
 *Bages
-![Skillsoft](https://skillsoft.digitalbadges-eu.skillsoft.com/5995efb9-4cb6-4128-87c8-4b1d32b783d2)
+![Skillsoft](https://eu.api.accredible.com/v1/frontend/credential_website_embed_image/badge/21368013))
  
 🌱 **Learning:** [gsap, Three.js, etc.]  
 📫 **How to reach me:** eyobs573@gmail.com | (https://www.linkedin.com/in/eyob-solomon-1a8026360)  
