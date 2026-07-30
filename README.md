@@ -34,7 +34,8 @@ specializing in:
 ![Spline](https://img.shields.io/badge/-Spline-6CCEF5?logo=spline&logoColor=white)  
 ![Cursor AI](https://img.shields.io/badge/-Cursor_AI-000?logo=cursor&logoColor=white) 
 ![Locofy](https://img.shields.io/badge/-Locofy-FF6C37?logo=locofy&logoColor=white) 
-![GitHub Copilot](https://img.shields.io/badge/-GitHub_Copilot-000?logo=githubcopilot&logoColor=white
+![GitHub Copilot](https://img.shields.io/badge/-GitHub_Copilot-000?logo=githubcopilot&logoColor=white)
+
 *Bages
 ![Skillsoft](https://eu.api.accredible.com/v1/frontend/credential_website_embed_image/badge/21368013))
  
