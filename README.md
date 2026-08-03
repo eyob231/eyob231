@@ -37,7 +37,9 @@ specializing in:
 ![GitHub Copilot](https://img.shields.io/badge/-GitHub_Copilot-000?logo=githubcopilot&logoColor=white)
 
 # Badges
-![Skillsoft](https://eu.api.accredible.com/v1/frontend/credential_website_embed_image/badge/21368013))
+![Skillsoft](https://eu.api.accredible.com/v1/frontend/credential_website_embed_image/badge/21368013)
+![Skillsoft](https://eu.api.accredible.com/v1/frontend/credential_website_embed_image/badge/21435755)
+
  
 🌱 **Learning:** [gsap, Three.js, etc.]  
 📫 **How to reach me:** eyobs573@gmail.com | (https://www.linkedin.com/in/eyob-solomon-1a8026360)  
