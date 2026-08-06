@@ -39,6 +39,7 @@ specializing in:
 # Badges
 ![Skillsoft](https://eu.api.accredible.com/v1/frontend/credential_website_embed_image/badge/21368013)
 ![Skillsoft](https://eu.api.accredible.com/v1/frontend/credential_website_embed_image/badge/21435755)
+![Skillsoft](https://eu.api.accredible.com/v1/frontend/credential_website_embed_image/badge/21507881)
 
  
 🌱 **Learning:** [gsap, Three.js, etc.]  
